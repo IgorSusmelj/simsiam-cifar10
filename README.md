@@ -1,8 +1,8 @@
-A minimal PyTorch example of training SimSiam on CIFAR10 with a kNN predictor to
-report the accuracy after each epoch. The code uses 
-[lightlys](https://github.com/lightly-ai/lightly) version of SimSiam.
+A minimal PyTorch example of training [SimSiam](https://arxiv.org/abs/2011.10566)
+on CIFAR10 with a kNN predictor to report the accuracy after each epoch. 
+The code uses [lightlys](https://github.com/lightly-ai/lightly) version of SimSiam.
 
-Final test set accuracy is 91%.
+Final test set accuracy is 91% which is similar to the original paper.
 
 # Installation
 
