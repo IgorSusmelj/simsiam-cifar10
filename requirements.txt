@@ -1,1 +1,2 @@
 lightly==1.0.7
+torch
